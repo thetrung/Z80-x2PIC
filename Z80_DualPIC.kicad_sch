@@ -11451,7 +11451,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Free_Pins"
+		(property "Value" "FREE_PINS"
 			(at 198.12 153.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11983,7 +11983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 269.24 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12574,7 +12574,7 @@
 				)
 			)
 		)
-		(property "Value" "DE15_Socket_HighDensity_MountingHoles"
+		(property "Value" "VGA-DB15"
 			(at 107.95 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13014,7 +13014,7 @@
 				)
 			)
 		)
-		(property "Value" "Slider_Switch"
+		(property "Value" "ON/OFF"
 			(at 220.98 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13098,7 +13098,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M1_O"
+		(property "Value" "M1"
 			(at 38.1 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13986,7 +13986,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Z84C00_PLCC"
+		(property "Value" "Z84C00/PLCC"
 			(at 52.9433 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16168,8 +16168,8 @@
 				)
 			)
 		)
-		(property "Value" "CXO_DIP8"
-			(at 68.326 121.666 0)
+		(property "Value" "CANNED-DIP8"
+			(at 69.088 121.666 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16253,8 +16253,8 @@
 				)
 			)
 		)
-		(property "Value" "LED-PWR"
-			(at 39.878 171.704 0)
+		(property "Value" "PWR"
+			(at 40.386 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
